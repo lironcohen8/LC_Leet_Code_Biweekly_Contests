@@ -10,3 +10,12 @@ Medium - 1829. Maximum XOR for Each Query
 
 Hard - 5720. Minimum Number of Operations to Make String Sorted
 
+## contest51 - 01/05/2021
+Easy - 5730. Replace All Digits with Characters
+
+Medium - 5731. Seat Reservation Manager
+
+Medium - 5732. Maximum Element After Decreasing and Rearranging
+
+Hard - 5733. Closest Room
+
