@@ -19,3 +19,11 @@ Medium - 5732. Maximum Element After Decreasing and Rearranging
 
 Hard - 5733. Closest Room
 
+## contest52 - 15/05/2021
+Easy - 5742. Sorting the Sentence
+
+Medium - 5743. Incremental Memory Leak
+
+Medium - 5744. Rotating the Box
+
+Hard - 5212. Sum of Floored Pairs
